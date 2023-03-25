@@ -1,0 +1,55 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: #333;
+    background-color: #f7f7f7;
+  }
+  
+  h1 {
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 50px;
+  }
+  
+  td {
+    text-align: left;
+    padding: 16px;
+  }
+  
+  th {
+    background-color: #008080;
+    color: #fff;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #e6e6e6;
+  }
+  
+  a {
+    color: #008080;
+    text-decoration: none;
+    font-weight: 700;
+  }
+  
+  a:hover {
+    color: #005656;
+  }
+  
+  .no-instagram {
+    color: #008080;
+    text-decoration: none;
+    font-weight: 700;
+  }
+
+
+  
+  
